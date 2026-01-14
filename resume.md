@@ -1,6 +1,6 @@
 # Stephen Saade
 
-stephen.saade@example.com
+ssaade@uw.edu
 
 http://www.example.com
 
@@ -64,6 +64,6 @@ Worked on web mapping projects using Leaflet and Mapbox, automated spatial analy
 
 ## Contact
 
-Please reach me via email at stephen.saade@example.com.
+Please reach me via email at ssaade@uw.edu.
 
 <!-- Template footer: built from the lab template -->
